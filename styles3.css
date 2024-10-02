@@ -1,0 +1,64 @@
+body {
+  text-align: center;
+  padding: 40px;
+  background-color: #f2f2f2;
+  font-size: 18px;
+  font-family: Arial, sans-serif; 
+}
+
+img {
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  color: #c02727;
+  margin-top: 20px;
+  font-weight: bold;
+}
+h1 {
+  transition: all 0.3s ease-in-out;
+}
+
+h1:hover {
+  color: #ff6600;
+  transform: scale(1.1);
+}
+a {
+  text-decoration: none;
+  transition: color 0.3s ease; 
+}
+h2:hover {
+  color: red;
+}
+svg {
+  fill:black;
+}
+.li{
+  fill: blue;
+}
+.gm, .li {
+  margin: 20px auto;
+}
+
+.contact-section {
+  margin-bottom: 30px;
+}
+
+.contact-section h2 {
+  margin-top: 0;
+}
+img {
+  border: 2px solid #ccc;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+h2 {
+  border-radius: 15px;
+  background-color: lightgray;
+  margin: 5px;
+}
+.contact-section {
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 5px;
+}
